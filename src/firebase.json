@@ -14,7 +14,7 @@
     ],
     "rewrites": [
       {
-        "source": "**",
+        "source": "/react-firebase/**",
         "destination": "/index.html"
       }
     ]
